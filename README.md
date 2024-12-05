@@ -1,2 +1,2 @@
-# domain-driven-design
+# Domain-Driven Design (DDD)
 Domain-Driven Design (DDD)
